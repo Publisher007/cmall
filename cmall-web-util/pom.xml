@@ -10,7 +10,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <groupId>con.study.cmall</groupId>
+    <groupId>com.study.cmall</groupId>
     <artifactId>cmall-web-util</artifactId>
     <version>1.0-SNAPSHOT</version>
 
